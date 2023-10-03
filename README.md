@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @GRDavies75
 - 👀 I’m interested in expanding my knowledge and skills towards helping me in my daily work which is Data Analysis .
-- 🌱 I’m currently learning Powerquery (and M) and thinking about learning Python with a focus on Test-Driven Development 
-- 💞️ I’m looking to collaborate on nothing at the moment. At first I want to grasp the basics of Python and Test-Driven Development, making use of Github.
+- 🌱 Goal reached: proficient at Power Query / M, using it in day-to-day work
+- 🌱 Goal postponed: learning Test Driven Development (within a Django focused project, Django does not have my interest at the moment)
+- 🌱 New Goal: learning the fundamentals/basics of Python (a lengthy but very extensive course, about 50+ %, other course 100+ excercises, about 40%)
+- 🌱 New Goal: learning the fundamentals/basics of Pandas (not the focus, but for diversity sake and in the end usable knowledge)
+- 🌱 New Goal: 100+ excercises Numpy (not started, same as with Pandas, usable knowledge)
+- 💞️ I’m looking to collaborate on nothing at the moment. At first I want to grasp the basics of Python, Panda's Numpy, making use of Github.
 
 <!---
 GRDavies75/GRDavies75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
